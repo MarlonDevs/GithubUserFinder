@@ -12,4 +12,4 @@ Github User Finder is a webApp that allows you to find information about Github 
    2. An Internet connection
 
 - **License**
-Github User Finder is a product Open Source.
+  Github User Finder is a product Open Source.
